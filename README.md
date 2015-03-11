@@ -9,6 +9,9 @@ Enviar un Pull Request para proponer un nuevo logo.
 ## Sloth
 ![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/sloths/costaricajs-sloth-1.png)
 
+## Sloth 2
+![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/sloths/JS-LOGO-1-SLOTH-HI.jpg)
+
 ## Tipo Node
 ![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/tipo-node/logoNode.jpg)
 
